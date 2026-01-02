@@ -1,3 +1,4 @@
+
 """Fetches resources."""
 
 import pkgutil
